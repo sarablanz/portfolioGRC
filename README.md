@@ -4,4 +4,5 @@ Repositorio de mi portfolio profesional como Analista de Seguridad Digital (GRC,
 
 Sigo organizando y ampliando los trabajos que se muestran aquí.
 
-👉 **Para ver el portfolio, haz clic en el enlace debajo de "About" (arriba a la derecha) →** o entra directo aquí: sarablanz.github.io/portfolioGRC/
+👉 **Para ver el portfolio, haz clic en el enlace debajo de "About" (arriba a la derecha) →** o entra directo aquí: sarablanz.github.io/portfolio
+
